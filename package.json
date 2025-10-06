@@ -1,0 +1,31 @@
+{
+  "name": "feedback",
+  "version": "1.0.0",
+  "description": "A professional Discord feedback bot with embeds, modals, and admin review system.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "feedback",
+    "discord-feedback",
+    "feedback",
+    "discord-bot"
+  ],
+  "author": "محمد الأسد",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "discord.js": "^14.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}
